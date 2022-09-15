@@ -34,7 +34,6 @@ _putchar('0' + rep % 10);
 if (b < 9)
 {
 _putchar(',');
-
 _putchar(' ');
 }
 b++;
