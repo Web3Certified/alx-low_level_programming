@@ -19,7 +19,7 @@ if (h2 == 2)
 a = 3;
 }
 h1 = 0;
-while (h1 <= a
+while (h1 <= a)
 {
 m2 = 0;
 while (m2 <= 5)
