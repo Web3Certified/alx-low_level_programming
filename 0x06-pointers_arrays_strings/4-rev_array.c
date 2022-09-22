@@ -7,7 +7,7 @@
  *Return: void
  */
 
-void reverse_array(int *a, int n);
+void reverse_array(int *a, int n)
 {
 int i = 0, half;
 for (half = n / 2; half > 0; half--, i++)
