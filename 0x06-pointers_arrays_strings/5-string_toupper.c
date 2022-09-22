@@ -7,7 +7,7 @@
  *@Return: capitalized string
  */
 
-char *string_toupper(char *);
+char *string_toupper(char *)
 {
 // the extra comments i wrote in this program
 // is to help me or whoever reads this code understand
