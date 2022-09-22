@@ -28,5 +28,5 @@ if (str[i] >= 'a' && str[i] <= 'z')
 str[i] -= 32; // can be rewritten this way	
 // str[i] = str[i] - 32;
 }
- return (str);
- }
+return (str);
+}
