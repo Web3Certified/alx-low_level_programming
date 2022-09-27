@@ -6,6 +6,7 @@
  *@c: char params to found
  *Return: char
  */
+
 char *_strchr(char *s, char c)
 {
 while (*s != '\0')
